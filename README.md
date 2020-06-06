@@ -2,7 +2,7 @@
 Explore os repositórios do GitHub de uma maneira diferente. Feito com reactJS e a api do GitHub
 
 ## Installation
-### Primeiro vc precisa ter [Node.js](https://nodejs.org/en/download/package-manager/) e [Yarn](https://classic.yarnpkg.com/en/docs/install/) instalados</br>
+### Primeiro certifique-se de ter [Node.js](https://nodejs.org/en/download/package-manager/) e [Yarn](https://classic.yarnpkg.com/en/docs/install/) instalados</br>
 - Então faça clone pelo link HTTPS:</br>
 <p><code>https://github.com/Lusca05/GitHubExplorer.git</code></p>
 
